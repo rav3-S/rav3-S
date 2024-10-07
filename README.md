@@ -2,6 +2,7 @@
 <h3 align="center">Here's what I'm upto</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rav3-s&label=Profile%20views&color=0e75b6&style=flat" alt="rav3-s" /> </p>
+![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/654653e7-4f18-4c95-9b66-674aa10adf2f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
